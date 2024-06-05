@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="azure" name="Azure">
+      <configuration>
+        <option name="dotAzurePath" value="C:\Users\1805m\Faculdade\IBMEC-cloudbigdata-20241\.azure" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="1d5a22a5-67c7-4e26-8afb-85208690af42" />
+  </component>
+</module>
